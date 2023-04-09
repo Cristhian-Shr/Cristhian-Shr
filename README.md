@@ -5,9 +5,9 @@ Olá! Eu sou o Cristhian Sander Schröer
 📒Estudando Javascript 
 
 ##
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristhian-Shr&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhian-Shr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
