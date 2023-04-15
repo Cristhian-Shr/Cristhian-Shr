@@ -1,6 +1,6 @@
-Olá! Eu sou o Cristhian Sander Schröer
+Olá! Eu sou o Cristhian Sander Schröer .
 
-💻Cursando Análise e Desenvolvimento de Sistemas
+💻Cursando Análise e Desenvolvimento de Sistemas 
 
 📒Estudando Javascript 
 
