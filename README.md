@@ -2,7 +2,7 @@ Olá! Eu sou o Cristhian Sander Schröer.
 
 💻Cursando Análise e Desenvolvimento de Sistemas 
 
-📒Estudando Javascript 
+📒Estudando Javascript e React.
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristhian-Shr&show_icons=true&theme=dark)
@@ -15,6 +15,7 @@ Olá! Eu sou o Cristhian Sander Schröer.
   <img align="center" alt="BOOTSTRAP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="react" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
 </div>
 
 ##
