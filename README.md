@@ -2,7 +2,7 @@ Olá! Eu sou o Cristhian Sander Schröer.
 
 💻Cursando Análise e Desenvolvimento de Sistemas.
 
-📒Estudando Javascript e React.
+📒Estudando Javascript, React e Next.js.
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristhian-Shr&show_icons=true&theme=dark)
